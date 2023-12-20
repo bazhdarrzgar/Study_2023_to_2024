@@ -11,7 +11,7 @@
 
 Rational agent aims to make choices that bring the best outcomes. Right now, these decision makers have specific goals and try to achieve them with the least effort. 📌
 
-* **Example:**
+* **Example:** 📌
 
     - Achieve a goal using the least effort possible (cost).
 
@@ -62,12 +62,16 @@ Rational agent aims to make choices that bring the best outcomes. Right now, the
 ### **Agent Program** 📌
 
 - **Simple Reflex Agents**
+    * Definition: Decide based on what's happening now, without thinking about the past or future.
 
 - **Model-Based Reflex Agents** 
+    * Definition: Use a memory or model of what's going on to make decisions.
 
 - **Goal-Based Agents** 
+    * Definition: Plan actions to reach specific goals, thinking about the best way to get 
 
 - **Utility-Based Agents**
+    * Definition: Make choices by thinking about what will give the best overall satisfaction or benefit.
 
 
 ### **Simple Reflex Agents** 📌
@@ -320,7 +324,7 @@ Rational agent aims to make choices that bring the best outcomes. Right now, the
 
 ### **General Tree Search:** 
 
-- **Key Concepts:**
+- **Key Concepts:** 📌
   - Fringe
   - Expansion
   - Exploration strategy
@@ -330,6 +334,7 @@ Rational agent aims to make choices that bring the best outcomes. Right now, the
 
 ### **Example: Tree Search** 📌
 
+```s
 s ( good step 1 )
 s->d ( good step 2 )
 s->e
@@ -342,6 +347,7 @@ s->d->e->r ( good step 4 )
 s->d->e->r->f ( good step 5 )
 s->d->e->r->f->c
 s->d->e->r->f->G ( good step 6 )
+```
 
 * **Search Tree**
 
