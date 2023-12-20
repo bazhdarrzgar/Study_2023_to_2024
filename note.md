@@ -235,7 +235,7 @@ Rational agent aims to make choices that bring the best outcomes. Right now, the
 * Goal test:
     * Is state == Bucharest?
 
-![Alt text](image.png)
+![Alt text](images/image.png)
 
 ### **Measuring Problem-Solving Performance:** 📌
 
@@ -271,8 +271,8 @@ Rational agent aims to make choices that bring the best outcomes. Right now, the
 - **Memory Constraint:**
     - While it's impractical to construct the entire graph in memory due to its size, the concept is valuable for problem-solving.
 
-![Alt text](<Screenshot from 2023-12-20 22-21-45.png>)
-![Alt text](<Screenshot from 2023-12-20 22-22-14.png>)
+![Alt text](<images/Screenshot from 2023-12-20 22-21-45.png>)
+![Alt text](<images/Screenshot from 2023-12-20 22-22-14.png>)
 
 ### **Search Tree:**
 
@@ -295,7 +295,7 @@ Rational agent aims to make choices that bring the best outcomes. Right now, the
 
 **Note: just know what is search tree and state space graph look like for searching in the picture.**
 
-![Alt text](<Screenshot from 2023-12-20 22-28-58.png>)
+![Alt text](<images/Screenshot from 2023-12-20 22-28-58.png>)
 
 - **Efficient Construction of Search Tree:**
 
@@ -345,8 +345,8 @@ s->d->e->r->f->G ( good step 6 )
 
 * **Search Tree**
 
-![Alt text](<Screenshot from 2023-12-20 22-58-34.png>)
+![Alt text](<images/Screenshot from 2023-12-20 22-58-34.png>)
 
 * **State Space Graph**
 
-![Alt text](<Screenshot from 2023-12-20 22-58-57.png>)
+![Alt text](<images/Screenshot from 2023-12-20 22-58-57.png>)
